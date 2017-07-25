@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HeapSort" />
+        <module name="InsertionSort" />
+        <module name="MergeSort" />
+        <module name="QuickSort" />
+        <module name="SelectSort" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HeapSort" target="1.5" />
+      <module name="InsertionSort" target="1.5" />
+      <module name="MergeSort" target="1.6" />
+      <module name="QuickSort" target="1.5" />
+      <module name="SelectSort" target="1.5" />
+      <module name="Sorting" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
